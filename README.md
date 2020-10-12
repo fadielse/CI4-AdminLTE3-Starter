@@ -1,6 +1,6 @@
 # CodeIgniter 4 Framework + AdminLTE 3
 
-![](/adminlte3-ci4.png)
+![](/adminlte3-ci4-demo.png)
 
 ## What is CodeIgniter?
 

@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/YOUR_PROJECT_NAME/';
+	public $baseURL = 'http://localhost/AdminLteStarter/';
 
 	/*
 	|--------------------------------------------------------------------------
